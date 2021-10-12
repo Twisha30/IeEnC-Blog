@@ -1,9 +1,9 @@
 * {
   margin: 0;
   padding: 0;
-  color: Crimson;
+  color: white;
   box-sizing: border-style: inset
-              border-color: Crimson;
+              border-color: white;
 }
 .goback {
   position: absolute;
@@ -26,13 +26,13 @@
   text-transform: uppercase;
   justify-content: center;
   align-items: center;
-  border: 2px solid Crimson;
+  border: 2px solid white;
   letter-spacing: 7px;
 }
 .bl {
   font-size: 30px;
   padding: 20px;
-  /* border: 1px solid Crimson; */
+  /* border: 1px solid white; */
   letter-spacing: 2px;
   text-transform: uppercase;
   padding: 25px 60px;
@@ -52,7 +52,7 @@ body {
 .blog {
   width: 93%;
   margin: 15px auto;
-  border: 2px solid Crimson;
+  border: 2px solid white;
   border-radius: 10px;
   padding: 10px 30px;
   overflow: auto;

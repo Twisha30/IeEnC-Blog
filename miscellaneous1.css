@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  color: Crimson;
+  color: White;
   box-sizing: border-box;
 }
 .goback {
@@ -16,6 +16,7 @@
   right: 0;
   padding: 10px 10px 0px 0px;
 }
+
 .head {
   height: 8em;
   font-family: sans-serif, Helvetica, "Arial Narrow Bold", sans-serif;
@@ -25,7 +26,7 @@
   text-transform: uppercase;
   justify-content: center;
   align-items: center;
-  border: 2px solid white;
+  border: 2px solid White;
   letter-spacing: 7px;
 }
 .bl {
@@ -41,8 +42,8 @@
   font-weight: 600;
 }
 body {
-  background-image: url("C:\Users\Twisha Awasthy\Downloads\wp2701718-electronic-wallpaper.jpg");
-  backdrop-filter: blur(2px);
+  background-image: url("C:\Users\Twisha Awasthy\Downloads\wp9013067-technology-pc-wallpapers.jpg");
+  backdrop-filter: blur(0px);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -107,6 +108,6 @@ a {
     float: none;
   }
   .main {
-    font-size: 40px;
+    font-size: 35px;
   }
 }
