@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  color: White;
+  color: LightCoral;
   box-sizing: border-box;
 }
 .goback {
@@ -26,7 +26,7 @@
   text-transform: uppercase;
   justify-content: center;
   align-items: center;
-  border: 2px solid White;
+  border: 2px solid LightCoral;
   letter-spacing: 7px;
 }
 .bl {
@@ -41,18 +41,10 @@
   font-size: 20px;
   font-weight: 600;
 }
-body {
-  background-image: url("C:\Users\Twisha Awasthy\Downloads\wp9013067-technology-pc-wallpapers.jpg");
-  backdrop-filter: blur(0px);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-}
 .blog {
   width: 93%;
   margin: 15px auto;
-  border: 2px solid White;
+  border: 2px solid LightCoral;
   border-radius: 10px;
   padding: 10px 30px;
   overflow: auto;
@@ -72,7 +64,7 @@ body {
 .imgs {
   width: 25%;
   height: 25%;
-  border: 1px solid White;
+  border: 1px solid LightCoral;
   border-radius: 5px;
   float: right;
   margin: 15px;
